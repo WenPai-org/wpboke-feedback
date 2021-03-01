@@ -1,0 +1,311 @@
+/*
+ * Flagged Content Pro - Admin page styles
+ * Styles should be prefixed with flaggedc
+ */
+tr.unapproved > th {
+	border-left: 4px solid #d54e21;
+}
+
+.flaggedc-admin-tabs > .nav-tab-wrapper {
+	border-bottom: none !important;
+}
+
+.flaggedc-admin-tabs > .nav-tab-wrapper > .nav-tab:first-child {
+	margin-left: 0;
+}
+
+.flaggedc-admin-tabs > .nav-tab-wrapper > .nav-tab {
+	border-bottom: 1px solid #ccc;
+}
+
+.flaggedc-admin-tabs > .nav-tab-wrapper > .nav-tab-active, 
+.flaggedc-admin-tabs > .nav-tab-wrapper > .nav-tab-active:hover {
+	background-color: white;
+}
+
+.flaggedc-admin-tabs .nav-tab-wrapper > .nav-tab-active {
+	border-bottom: 1px solid white !important; /*1px solid white*/
+}
+
+.flaggedc-admin-settings-main {
+	float: left;
+	width: 80%;
+	max-width: 1200px;
+}
+
+
+.flaggedc-admin-settings-main h3 {
+	font-size: 1.2em;
+}
+
+.flaggedc-admin-settings-main .form-table {
+	margin-top: 30px;
+}
+
+.flaggedc-admin-settings-wrapper {
+	
+	/**/
+	/*display: inline-block;*/
+	/*width: 100%;*/
+
+	background-color: white;
+	padding-left:12px;
+	border: 1px solid #ccc;
+	margin-top:-1px;
+
+	/*margin-top: -.5em;*/ /* counter .form-table's margin-top: .5em*/ 
+}
+
+.flaggedc-admin-settings-wrapper section {
+	margin-top: 20px;
+}
+
+/** hide non first sections on load to prevent flicker */
+.flaggedc-admin-settings-wrapper section:not(:first-of-type) {
+    display: none;
+}
+
+.flaggedc-admin-settings-status {
+	
+	float:right;
+	width: 30%;
+	background-color: white;
+	padding: 0 12px 12px 12px;
+	border: 1px solid #ccc;
+
+	margin-top: 44px;
+}
+
+	.flaggedc-admin-settings-status ul {
+		list-style: disc inside none;
+		margin-left: 20px;
+	}
+
+	.flaggedc-admin-settings-status li:first-of-type {
+		margin-top:-10px;
+	}
+
+	.flaggedc-admin-settings-status li {
+		margin-bottom: 3px;
+	}
+
+ul.flaggedc-admin-list {
+	list-style: disc outside none;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+	ul.flaggedc-admin-list li {
+		margin-left: 25px;
+		margin-bottom: 0;
+	}
+
+		ul.flaggedc-admin-list li span {
+			margin-left: 0px;
+		}
+
+div.flaggedc-list-table-forms td,
+div.flaggedc-list-table td {
+	color: #32373c;
+}
+
+div.flaggedc-list-table-forms .flaggedc-sub-text-color,
+div.flaggedc-list-table .flaggedc-sub-text-color {
+	color: #555;
+}
+
+div.flaggedc-list-table-forms .add-new-h2 {
+	position: static;
+	display: inline-block;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+	div.flaggedc-list-table-forms .add-new-h2:active {
+		position: static;
+	}
+
+
+.flaggedc-list-table .flaggedc-delete-all-pending-link,
+.flaggedc-list-table .flaggedc-delete-this-flag-link {
+	color: #a00;
+}
+
+.flaggedc-list-table .flaggedc-delete-all-pending-link:hover,
+.flaggedc-list-table .flaggedc-delete-this-flag-link:hover {
+	color: #C34C4C;
+}
+
+.flaggedc-list-table .row-actions {
+	margin-top: 6px;
+}
+
+.flaggedc-pending-flag-icon {
+	color: #d54e21;
+}
+
+.flaggedc-completed-flag-icon {
+	color: #00a0d2;
+}
+
+/* background: #46b450; green color */
+
+.flaggedc-icon-form-status-active {
+    font-size: 24px;
+    color: #46b450;
+}
+
+/**
+ * Column sizing
+ */
+.flaggedc-list-table td.column-cb            { width: 3%; }
+.flaggedc-list-table th.column-status        { width: 5%; }
+.flaggedc-list-table th.column-reason        { width: 25%; }
+.flaggedc-list-table th.column-content_id    { width: 25%; }
+.flaggedc-list-table th.column-flag_actions  { width: 15%; }
+.flaggedc-list-table th.column-user_id       { width: 15%; }
+.flaggedc-list-table th.column-date_notified { width: 12%; }
+@media screen and (max-width: 782px) {
+    .flaggedc-list-table td.column-cb        { width: 2.2em; }
+}
+
+.flaggedc-list-table-forms td.column-cb           { width: 3%; }
+.flaggedc-list-table-forms th.column-form_status  { width: 4%; }
+.flaggedc-list-table-forms th.column-form_name    { width: 15%; }
+.flaggedc-list-table-forms th.column-form_fields  { width: 30%; }
+.flaggedc-list-table-forms th.column-content      { width: 15%; }
+.flaggedc-list-table-forms th.column-form_user    { width: 14%; }
+.flaggedc-list-table-forms th.column-date_updated { width: 19%; }
+@media screen and (max-width: 782px) {
+    .flaggedc-list-table-forms td.column-cb       { width: 2.2em; }
+}
+
+.flaggedc-view-all-flags-both {
+	color: #72777c;
+}
+
+.flaggedc-view-all-flags-pending {
+	color: #d54e21;
+}
+
+.flaggedc-view-all-flags-complete {
+    color: #00a0d2;
+}
+
+.flaggedc-view-all-flags span {
+	font-size: 26px;
+}
+
+.flaggedc-view-all-flags:hover {
+	color: #0073aa;
+}
+
+.flaggedc-admin-icon-warning {
+    font-size: 18px;
+}
+
+.flaggedc-list-table-icon {
+	font-size: 18px;
+    color: #555;
+}
+
+.flaggedc-ip-icon {
+	margin-left: 6px;
+	color: #72777c;
+}
+    .flaggedc-ip-icon:hover {
+        color: #0073aa;
+    }
+
+
+
+.flaggedc-admin-color-picker-text {
+	display:inline-block;
+	vertical-align: top;
+	margin-left: 8px;
+	padding-top: 3px;
+}
+
+.flaggedc-admin-settings-wrapper .wp-picker-container,
+.flaggedc-admin-settings-wrapper .wp-picker-container:active {
+	vertical-align: middle;
+}
+
+.flaggedc-admin-settings-wrapper textarea {
+	width: 60%;
+	height: 150px;
+}
+
+.flaggedc-admin-settings-wrapper input[type="text"] {
+	width: 60%;
+}
+
+.flaggedc-admin-settings-wrapper select {
+	width: 60%;
+}
+
+.flaggedc-admin-settings-wrapper input[type="radio"] {
+	margin-top: 5px;
+	vertical-align: text-bottom !important;
+}
+
+.flaggedc-admin-text-short {
+	width: 20% !important;
+}
+
+.flaggedc-admin-text-medium {
+	width: 40% !important;
+}
+
+.flaggedc-admin-instructions {
+	font-size: 13px !important; /** Overwrite default wp font-size: .form-table td p */
+	color: #666;
+}
+
+
+.flaggedc-admin-content-left {
+	float: left;
+	width: 30%;
+}
+
+.flaggedc-admin-content-right {
+	float: left;
+	width: 50%;
+}
+
+
+.flaggedc-checkbox-short {
+	margin-top: -10px !important;
+	margin-bottom: -10px !important;
+	line-height: 1px;
+}
+
+.flaggedc-select-icon {
+	font-family: "Dashicons";
+	font-size: 22px;
+	width: 60px !important;
+	height: 40px !important;
+	text-align-last:center;
+}
+
+.flaggedc-admin-content-info {
+	margin-top: 30px !important;
+}
+
+.reveal-location-shortcode,
+.reveal-location-auto {
+    margin-top: 30px;
+}
+
+.flaggedc-admin-hide {
+	display: none;
+}
+
+.flaggedc-admin-spacer {
+	padding-bottom: 30px;
+}
+
+/** hide Perform action description on load to prevent flicker when unselected */
+.flaggedc-admin-settings-edit-form #form_section table tbody tr:last-of-type{
+    display: none;
+}

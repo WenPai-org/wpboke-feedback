@@ -1,0 +1,1170 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Flagged Content Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-10 19:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: admin/admin-flags-page.php:603
+msgid " All "
+msgstr ""
+
+#: admin/admin-flags-page.php:346
+#, php-format
+msgid " and %d completed flag for this %s. Click to view them."
+msgid_plural " and %d completed flags for this %s. Click to view them."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/admin-flags-page.php:605
+msgid " Completed "
+msgstr ""
+
+#: admin/admin-flags-page.php:604
+msgid " Pending "
+msgstr ""
+
+#: includes/frontend-output.php:96
+msgid "(required)"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:129
+msgid "<em>Description</em> field"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:125
+msgid "<em>E-mail</em> field"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:124
+msgid "<em>Name</em> field"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:126
+msgid "<em>Reason</em> field"
+msgstr ""
+
+#: flagged-content-pro.php:461
+msgid "[[site_name]] [content_name] flagged"
+msgstr ""
+
+#: flagged-content-pro.php:462
+msgid ""
+"[content_name] flagged: [content_desc]\n"
+"Content link: [content_link]\n"
+"Flag reason: [flag_reason]\n"
+"Flag description: [flag_description]"
+msgstr ""
+
+#: admin/admin-flags-page.php:538
+msgid "Actions"
+msgstr ""
+
+#: admin/admin-forms-page.php:265
+msgid "Activate"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:186
+msgid "Active"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:191
+msgid ""
+"Active forms are displayed to users whereas inactive forms cannot be seen or "
+"interacted with."
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:870
+msgid "Add"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:900 admin/admin-forms-page.php:440
+msgid "Add New Form"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:552
+msgid "Add wording to the top of the form"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:328
+msgid "Adds an icon to the button, before the text"
+msgstr ""
+
+#: admin/admin-settings-page.php:59 admin/admin-settings-page.php:71
+#: admin/admin-settings-page.php:83 admin/admin-settings-page.php:95
+msgid "Administrator"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:122
+msgid "Alignment"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:595
+msgid "All Administrators"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:208
+msgid "All content has already been selected with other forms"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:603
+msgid "All Editors"
+msgstr ""
+
+#. Description of the plugin
+msgid "Allows visitors to flag content."
+msgstr ""
+
+#: admin/admin-forms-page.php:112
+msgid "Appears For"
+msgstr ""
+
+#: admin/admin-forms-page.php:111
+msgid "Appears On"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:613
+msgid ""
+"Attempt to get and send an email to the author of posts, pages, and some "
+"custom post types"
+msgstr ""
+
+#: admin/admin-settings-page.php:61 admin/admin-settings-page.php:73
+#: admin/admin-settings-page.php:85 admin/admin-settings-page.php:97
+msgid "Author"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:611
+msgid "Author of the flagged content"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:109
+msgid "Auto tweaking"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:260
+msgid "Automatic - After the content"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:259
+msgid "Automatic - Before the content"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:266
+msgid "Automatic placement requires the theme to use certain functions."
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:588
+msgid "Blog Administrator"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:367
+msgid "Button"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:396 admin/admin-forms-edit-page.php:533
+msgid "Button color"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:416
+msgid "Center"
+msgstr ""
+
+#: admin/admin-flags-page.php:640
+msgid "Change status to completed"
+msgstr ""
+
+#: admin/admin-flags-page.php:641
+msgid "Change status to pending"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:119 admin/admin-forms-edit-page.php:134
+msgid "Choose button colors"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:263
+msgid "Choose if the form should be automatically or manually placed."
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:402 admin/admin-forms-edit-page.php:539
+msgid "Color on hover"
+msgstr ""
+
+#: admin/content.php:120 admin/content.php:135 includes/ajax.php:438
+msgid "Comment"
+msgstr ""
+
+#: flagged-content-pro.php:328 admin/content.php:121 admin/content.php:136
+msgid "Comments"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:301
+msgid "Comments: Unapprove comment"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:107
+msgid "Content"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:247
+msgid "Content in use by other forms"
+msgstr ""
+
+#: admin/admin-settings-page.php:62 admin/admin-settings-page.php:74
+#: admin/admin-settings-page.php:86 admin/admin-settings-page.php:98
+msgid "Contributor"
+msgstr ""
+
+#: admin/admin-forms-page.php:266
+msgid "Deactivate"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:377 admin/admin-forms-edit-page.php:514
+msgid "Default theme style - Black"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:381 admin/admin-forms-edit-page.php:518
+msgid "Default theme style - Choose colors"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:378 admin/admin-forms-edit-page.php:515
+msgid "Default theme style - Gray"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:379 admin/admin-forms-edit-page.php:516
+msgid "Default theme style - Green"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:380 admin/admin-forms-edit-page.php:517
+msgid "Default theme style - Red"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:376 admin/admin-forms-edit-page.php:513
+msgid "Default theme style and color"
+msgstr ""
+
+#: admin/admin-flags-page.php:639 admin/admin-forms-page.php:264
+msgid "Delete"
+msgstr ""
+
+#: admin/admin-flags-page.php:409
+#, php-format
+msgid ""
+"Delete all %d pending flags for this %s. Flags with completed status will "
+"not be affected."
+msgstr ""
+
+#. %8$s
+#: admin/admin-flags-page.php:423
+msgid "Delete all pending flags"
+msgstr ""
+
+#. %5$s
+#: admin/admin-flags-page.php:396
+msgid "Delete this flag"
+msgstr ""
+
+#: admin/content.php:95
+msgid "Deleted"
+msgstr ""
+
+#: includes/frontend-output.php:174
+msgid "Description"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:117
+msgid "Display button or link?"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:576
+msgid "Displayed if validation fails or the spam check is not passed"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:564
+msgid "Displayed when a user fails to complete a required field"
+msgstr ""
+
+#. Author of the plugin
+msgid "DivSpark"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:493
+msgid "Do not display the description field"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:447
+msgid "Do not display the e-mail field"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:433
+msgid "Do not display the name field"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:461
+msgid "Do not display the reason field"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:476
+msgid "Dropdown"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:870 admin/content.php:143
+#: admin/content.php:202 admin/content.php:219
+msgid "Edit"
+msgstr ""
+
+#: admin/admin-settings-page.php:35
+msgid "Edit flags"
+msgstr ""
+
+#: admin/admin-settings-page.php:37
+msgid "Edit forms"
+msgstr ""
+
+#. title=
+#: admin/admin-forms-page.php:157
+msgid "Edit this form"
+msgstr ""
+
+#: admin/admin-settings-page.php:60 admin/admin-settings-page.php:72
+#: admin/admin-settings-page.php:84 admin/admin-settings-page.php:96
+msgid "Editor"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:884 includes/frontend-output.php:116
+msgid "Email"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:151
+msgid "Email message"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:709
+msgid "Email notifications can be sent to site users when a flag is submitted."
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:708
+msgid "Email Settings"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:150
+msgid "Email subject"
+msgstr ""
+
+#: admin/admin-settings-page.php:107 admin/admin-settings-page.php:113
+msgid "Enable"
+msgstr ""
+
+#: admin/admin-settings-page.php:136
+msgid "Enable - Save the IP address of the flag submitter."
+msgstr ""
+
+#: admin/admin-settings-page.php:128
+msgid ""
+"Enable - when a post, comment or other content type is permanently deleted "
+"then all flags for that content will also be deleted."
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:144
+msgid "Enable email notifications?"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:197 admin/admin-forms-page.php:224
+msgid "Everyone"
+msgstr ""
+
+#: admin/admin-settings-page.php:120
+msgid "Featherlight"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:881 admin/admin-forms-page.php:110
+msgid "Fields"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:684
+msgid "Fields Settings"
+msgstr ""
+
+#: admin/admin-flags-page.php:535 includes/frontend-output.php:227
+msgid "Flag"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:880
+msgid "Flag Button"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:675
+msgid "Flag Button Settings"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:118
+msgid "Flag button style"
+msgstr ""
+
+#: admin/admin-pages.php:46 includes/frontend-output.php:234
+msgid "Flagged"
+msgstr ""
+
+#: admin/admin-flags-page.php:448
+msgid "Flagged by a logged in user"
+msgstr ""
+
+#. Name of the plugin
+#: admin/admin-pages.php:60
+msgid "Flagged Content Pro"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:871
+#, php-format
+msgid "Flagged Content Pro - %s Form"
+msgstr ""
+
+#. $parent_slug
+#: admin/admin-pages.php:82
+msgid "Flagged Content Pro - Add/Edit Forms"
+msgstr ""
+
+#: admin/admin-flags-page.php:656
+msgid "Flagged Content Pro - Flags"
+msgstr ""
+
+#. $parent_slug
+#: admin/admin-forms-page.php:432 admin/admin-pages.php:72
+msgid "Flagged Content Pro - Forms"
+msgstr ""
+
+#. $parent_slug
+#: admin/admin-pages.php:92
+msgid "Flagged Content Pro - Settings"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:384 admin/admin-forms-edit-page.php:521
+msgid "Flat style - Black"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:388 admin/admin-forms-edit-page.php:525
+msgid "Flat style - Choose colors"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:385 admin/admin-forms-edit-page.php:522
+msgid "Flat style - Gray"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:386 admin/admin-forms-edit-page.php:523
+msgid "Flat style - Green"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:387 admin/admin-forms-edit-page.php:524
+msgid "Flat style - Red"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:383 admin/admin-forms-edit-page.php:520
+msgid "Flat style - Theme color"
+msgstr ""
+
+#: admin/admin-flags-page.php:537
+msgid "For"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:655
+msgid ""
+"For example, setting this number to 3 means emails will only be sent after a "
+"particular post, page, \n"
+"            custom post, (or whatever content this form is set to appear on) "
+"has 3 or more flags. Each time a flag is \n"
+"            submitted for that item beyond the 3rd flag, an email will be "
+"sent. <br><br>            \n"
+"            Please note: this is based off the total pending flags an item "
+"has. Deleting or changing pending flags&#39; status \n"
+"            affects the count."
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:304
+msgid ""
+"For example, setting this number to 3 means the content you have chosen for "
+"this form (post, comment, etc). will have its status \n"
+"            changed after 3 or more pending flags have been submitted for it."
+"<br><br>            \n"
+"            Please note: This relies on standard statuses. Custom statuses "
+"may or may not work. Deleting or changing pending flags&#39; status \n"
+"            affects the count."
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:879 admin/admin-forms-page.php:109
+msgid "Form"
+msgstr ""
+
+#: admin/admin-forms-page.php:335
+msgid "Form activated."
+msgid_plural "Forms activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/admin-forms-page.php:357
+msgid "Form deactivated."
+msgid_plural "Forms deactivated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/admin-forms-page.php:313
+msgid "Form deleted."
+msgid_plural "Forms deleted."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/admin-forms-edit-page.php:104
+msgid "Form name"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:667
+msgid "Form Settings"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:858
+#, php-format
+msgid "Form updated. Return to the <a href=\"%s\">forms page</a>"
+msgstr ""
+
+#. $page_title
+#: flagged-content-pro.php:546 admin/admin-pages.php:73
+msgid "Forms"
+msgstr ""
+
+#: admin/admin-settings-page.php:149
+msgid ""
+"Grant or restrict access to the plugin&#39;s functionality in the admin "
+"backend."
+msgstr ""
+
+#: admin/admin-settings-page.php:38
+msgid "Honeypot"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:420
+msgid "How the flag button should be aligned within the container"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://divspark.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://divspark.com/products/flagged-content-pro/"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:113
+msgid "Icon on button"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:353
+msgid "Icon shown, before the text, after a successful submission"
+msgstr ""
+
+#: admin/admin-settings-page.php:137
+msgid ""
+"If enabled, the IP address of the flag submitter will be stored and made "
+"visible in the flags section. If disabled, then IP \n"
+"            address information will be unavailable for the user who "
+"submitted the flag."
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:288
+msgid ""
+"If needed, please enter a number (1-1000). This number sets the priority and "
+"should be used to fine-tune the auto placement of the button when there are "
+"plugins competing for space."
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:189
+msgid "Inactive"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:138
+msgid "Instructions"
+msgstr ""
+
+#: admin/content.php:83
+msgid "Invalid"
+msgstr ""
+
+#: admin/content.php:84
+msgid "Invalid content"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:141
+msgid "Invalid email"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:677
+msgid "Labels"
+msgstr ""
+
+#: admin/admin-forms-page.php:113
+msgid "Last Updated"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:415
+msgid "Left"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:152
+msgid "Limit email notifications"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:648
+msgid "Limit when email notifications should be sent"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:370
+msgid "Link"
+msgstr ""
+
+#: admin/admin-settings-page.php:119
+msgid "Magnific Popup"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:261
+msgid "Manual shortcode"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:570
+msgid "Message when an invalid email is entered"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:883
+msgid "Messages"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:700
+msgid "Messages Settings"
+msgstr ""
+
+#: admin/admin-settings-page.php:101
+msgid "Minimum role needed to edit forms."
+msgstr ""
+
+#: admin/admin-settings-page.php:77
+msgid ""
+"Minimum role needed to edit submitted flags such as changing a flag&#39;s "
+"status or deleting it."
+msgstr ""
+
+#: admin/admin-settings-page.php:89
+msgid "Minimum role needed to view the list of forms."
+msgstr ""
+
+#: admin/admin-settings-page.php:65
+msgid ""
+"Minimum role needed to view the list of submitted flags within the admin "
+"section."
+msgstr ""
+
+#: admin/admin-settings-page.php:40
+msgid "Modal popup type"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:180
+msgid ""
+"Name of this form - For internal use only, users will not see the form name."
+msgstr ""
+
+#: admin/admin-forms-page.php:55
+msgid "New form added."
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:198 admin/admin-forms-page.php:227
+msgid "Only logged in users"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:271
+msgid ""
+"Only one item content may be selected when using a manual shortcode. The "
+"content selection above has been changed to reflect this. Also, shortcodes "
+"will not display on index / archive pages."
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:487
+msgid "Optional - User does not need to add a description"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:427
+msgid "Optional - User does not need to enter a name"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:441
+msgid "Optional - User does not need to enter an e-mail"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:455
+msgid "Optional - User does not need to select a reason"
+msgstr ""
+
+#: admin/admin-settings-page.php:208
+msgid "Other"
+msgstr ""
+
+#: admin/admin-settings-page.php:164
+msgid "Other Settings"
+msgstr ""
+
+#: admin/admin-pages.php:54
+msgid "pending flag"
+msgid_plural "pending flags"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/admin-forms-edit-page.php:110
+msgid "Perform action"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:295
+msgid "Perform an action on the content after it has been flagged"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:302
+msgid "Perform the action after the content has been flagged X or more times."
+msgstr ""
+
+#: admin/admin-settings-page.php:206
+msgid "Permissions"
+msgstr ""
+
+#: admin/admin-settings-page.php:148
+msgid "Permissions Settings"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:108
+msgid "Placement"
+msgstr ""
+
+#: flagged-content-pro.php:452
+msgid "Please complete the required fields."
+msgstr ""
+
+#: admin/admin-pages.php:124
+msgid "Please confirm you want to delete all pending flags for this "
+msgstr ""
+
+#: flagged-content-pro.php:453
+msgid "Please enter a valid e-mail address."
+msgstr ""
+
+#: flagged-content-pro.php:698
+msgid "Post form"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:300
+msgid ""
+"Posts, pages, custom post types, and bbPress: Change status to pending review"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:479
+msgid "Radio buttons"
+msgstr ""
+
+#: includes/frontend-output.php:136
+msgid "Reason"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:149
+msgid "Recipient email address"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:145
+msgid "Recipients"
+msgstr ""
+
+#: admin/admin-settings-page.php:129
+msgid ""
+"Recommended to be checked to keep the admin flags screen clean and avoid "
+"missing content titles. However, this should be unchecked if \n"
+"\t\t    there are completed flags you would like to preserve even if the "
+"content for those flags has been deleted."
+msgstr ""
+
+#: admin/admin-settings-page.php:41
+msgid "Remove flags on delete"
+msgstr ""
+
+#: flagged-content-pro.php:429
+msgid "Report Issue"
+msgstr ""
+
+#: flagged-content-pro.php:431
+msgid "Reported"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:490
+msgid "Required - User must add a description to submit the form"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:430
+msgid "Required - User must enter a name to submit the form"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:444
+msgid "Required - User must enter a valid e-mail"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:458
+msgid "Required - User must select a reason to submit the form"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:140
+msgid "Required field"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:417
+msgid "Right"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:900 admin/admin-settings-page.php:221
+msgid "Save All Changes"
+msgstr ""
+
+#: admin/admin-settings-page.php:42
+msgid "Save flag submitters IP address"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:211
+msgid "Select the content users can flag using this form"
+msgstr ""
+
+#: admin/admin-settings-page.php:122
+msgid ""
+"Select which modal should display the form. This can be changed to avoid "
+"conflicts and change the appearance or behavior."
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:200
+msgid "Select who will be shown and able to submit the form"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:582
+msgid "Send email notifications"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:653
+msgid "Send email notifications only after a content item has reached X flags."
+msgstr ""
+
+#: flagged-content-pro.php:445 includes/frontend-output.php:291
+msgid "Sending"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:132
+msgid "Sending text"
+msgstr ""
+
+#. $page_title
+#: flagged-content-pro.php:547 admin/admin-pages.php:93
+msgid "Settings"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:275
+msgid "Shortcode will be available after the new form has been saved."
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:279
+msgid "Shortcode:"
+msgstr ""
+
+#: admin/admin-flags-page.php:666
+#, php-format
+msgid "Showing %s flags for: %s"
+msgstr ""
+
+#: admin/admin-flags-page.php:659
+#, php-format
+msgid "Showing %s flags submitted by IP address: %s"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:558
+msgid "Shown after user successfully flags an item"
+msgstr ""
+
+#: admin/admin-settings-page.php:207
+msgid "Spam"
+msgstr ""
+
+#: admin/admin-settings-page.php:156
+msgid "Spam Settings"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:105
+msgid "Status"
+msgstr ""
+
+#: flagged-content-pro.php:444 includes/frontend-output.php:290
+msgid "Submit"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:882
+msgid "Submit Button"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:692
+msgid "Submit Button Settings"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:133
+msgid "Submit button style"
+msgstr ""
+
+#: admin/admin-flags-page.php:539
+msgid "Submitted By"
+msgstr ""
+
+#: admin/admin-flags-page.php:540
+msgid "Submitted On"
+msgstr ""
+
+#: admin/admin-settings-page.php:63 admin/admin-settings-page.php:75
+#: admin/admin-settings-page.php:87 admin/admin-settings-page.php:99
+msgid "Subscriber"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:139
+msgid "Success"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:115
+msgid "Success icon"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:116
+msgid "Success text"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:408 admin/admin-forms-edit-page.php:545
+msgid "Text color"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:114 admin/admin-forms-edit-page.php:131
+msgid "Text on button"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:359
+msgid "Text shown on the button after the form has been successfully submitted"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:506
+msgid "Text shown on the button while the form is being submitted"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:685
+msgid "The fields appearing within the form."
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:676
+msgid "The flag button is clicked to show the form."
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:634
+msgid ""
+"The following words can be used to include special information in the email "
+"message. Make sure to include the square brackets.<br> \n"
+"\t\t\t<strong>[site_name]</strong> will include the name of the website.<br>"
+"\n"
+"\t\t\t<strong>[content_name]</strong> will include the name of the content "
+"that was flagged.<br>\n"
+"            <strong>[content_desc]</strong> will include a description of "
+"the content that was flagged such as a title or excerpt. E.g. post title, "
+"comment excerpt, etc.<br>\n"
+"            <strong>[content_link]</strong> will include a link to the "
+"content that was flagged.<br>\n"
+"            <strong>[post_title]</strong> will include the title of the post "
+"the content belongs to (if it can be determined).<br>\n"
+"            <strong>[flag_reason]</strong> will include the reason the "
+"content was flagged (if the user selected one).<br>\n"
+"            <strong>[flag_description]</strong> will include additional "
+"information the user may have left."
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:625
+msgid ""
+"The following words can be used to include special information in the email "
+"subject. Make sure to include the square brackets.<br>\n"
+"            <strong>[site_name]</strong> will include the name of the "
+"website.<br>\n"
+"            <strong>[content_name]</strong> will include the name of the "
+"content that was flagged."
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:668
+msgid ""
+"The form is used by visitors to submit flags. The form appears within a "
+"modal (aka lightbox, pop-up) after the user clicks the \"Flag Button\" for a "
+"particular piece of content."
+msgstr ""
+
+#: admin/content.php:192
+msgid "The post type has been modified. This was flagged as a "
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:468
+msgid ""
+"The reason field will not be shown if this is left empty. There will be no "
+"reasons for the user to select from"
+msgstr ""
+
+#: admin/admin-settings-page.php:157
+msgid ""
+"The settings below enable different types of spam protection to fight bots. "
+"Please note that some bots may still get past the defenses and submit the "
+"form."
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:693
+msgid "The submit button is in the form and is clicked to submit the flag."
+msgstr ""
+
+#: admin/admin-flags-page.php:365
+#, php-format
+msgid "There are %d completed flags for this %s. Click to view them."
+msgstr ""
+
+#: admin/admin-flags-page.php:358
+#, php-format
+msgid "There are %d pending flags for this %s. Click to view them."
+msgstr ""
+
+#: admin/admin-flags-page.php:894
+msgid "There are no flags"
+msgstr ""
+
+#: admin/admin-flags-page.php:893
+msgid "There are no flags marked as completed"
+msgstr ""
+
+#: admin/admin-forms-page.php:371
+msgid ""
+"There are no forms. No content can be flagged. Please click \"Add New Form\" "
+"to begin."
+msgstr ""
+
+#: admin/admin-flags-page.php:892
+msgid "There are no pending flags"
+msgstr ""
+
+#: admin/admin-flags-page.php:344
+#, php-format
+msgid "There is %d pending flag"
+msgid_plural "There are %d pending flags"
+msgstr[0] ""
+msgstr[1] ""
+
+#: flagged-content-pro.php:454
+msgid "There was an error. Please try again."
+msgstr ""
+
+#: includes/ajax.php:46
+msgid ""
+"There was an issue submitting your form. Please reload the page and try "
+"again."
+msgstr ""
+
+#: admin/admin-flags-page.php:292
+msgid "This flag has been marked completed"
+msgstr ""
+
+#: admin/admin-flags-page.php:287
+msgid "This flag is pending review"
+msgstr ""
+
+#: admin/admin-forms-page.php:175
+msgid "This form is active"
+msgstr ""
+
+#: admin/admin-forms-page.php:180
+msgid "This form is inactive. It will not be shown to users."
+msgstr ""
+
+#: admin/content.php:96
+msgid "This has been permanently deleted"
+msgstr ""
+
+#: admin/content.php:118 admin/content.php:156
+msgid "This is in the trash"
+msgstr ""
+
+#: flagged-content-pro.php:441
+msgid ""
+"This post contains broken links\n"
+"Post has incorrect information\n"
+"Post has spam\n"
+"Copyright Issue\n"
+"Other"
+msgstr ""
+
+#: admin/content.php:173
+msgid "This post type no longer exists"
+msgstr ""
+
+#: admin/admin-settings-page.php:39
+msgid "Timestamp Defense"
+msgstr ""
+
+#: flagged-content-pro.php:563
+msgid "Tutorials"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:619
+msgid ""
+"Type in a valid email address for a recipient. Emails will be sent to all "
+"checked and typed in recipients."
+msgstr ""
+
+#: flagged-content-pro.php:420
+msgid "Unnamed"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:142
+msgid "Validation failure"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:701
+msgid "Various messages shown within the form to users."
+msgstr ""
+
+#: admin/content.php:142 admin/content.php:201 admin/content.php:218
+msgid "View"
+msgstr ""
+
+#. %3$s href &status=
+#: admin/admin-flags-page.php:495
+msgid "View all flags submitted by this IP address"
+msgstr ""
+
+#: admin/admin-settings-page.php:34
+msgid "View flags"
+msgstr ""
+
+#: admin/admin-settings-page.php:36
+msgid "View forms"
+msgstr ""
+
+#. %1$s href, <a> </a>
+#: admin/admin-flags-page.php:483
+msgid "View whois information for this IP address"
+msgstr ""
+
+#: admin/admin-forms-edit-page.php:106
+msgid "Visibility"
+msgstr ""
+
+#: flagged-content-pro.php:451
+msgid "You have flagged this item."
+msgstr ""
+
+#: includes/frontend-output.php:101
+msgid "Your Name"
+msgstr ""
